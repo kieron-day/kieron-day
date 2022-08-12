@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kieron-day
-- 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on anything.
 - 📫 You can reach me via email kieron.day@email.com 
 
 <!---
