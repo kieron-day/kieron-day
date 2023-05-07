@@ -5,10 +5,10 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper pellentesque arcu, id fermentum dui euismod in. Nam pulvinar est dui, non accumsan nibh ultrices quis. Sed vitae enim feugiat, eleifend metus vitae, convallis felis. Vestibulum imperdiet ultrices eros in sagittis. Nam sit amet magna lobortis, elementum ante quis, tincidunt felis. Fusce iaculis orci eleifend lacus auctor vulputate. Phasellus sed tempus sem. Nunc lacinia metus vel nunc laoreet, at commodo odio vehicula. Morbi lorem est, tempor sed arcu vitae, varius gravida purus. In pellentesque ipsum vel orci molestie porttitor. Donec commodo laoreet massa, non pellentesque lectus sagittis nec.
 
    <p align="left">
-      <a href="https://github.com/kieron.-day?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/kieron-day?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kieron-day?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/kieron-day?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kieron-day?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
