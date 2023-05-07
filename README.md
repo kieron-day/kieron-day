@@ -1,8 +1,8 @@
 # 🏃🏻‍♂️ Kieron Day
 
-**`Full-Stack Developer`**
+**`Full-Stack Developer / Agile Athlete - Always striving to run faster than my code.`**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper pellentesque arcu, id fermentum dui euismod in. Nam pulvinar est dui, non accumsan nibh ultrices quis. Sed vitae enim feugiat, eleifend metus vitae, convallis felis. Vestibulum imperdiet ultrices eros in sagittis. Nam sit amet magna lobortis, elementum ante quis, tincidunt felis. Fusce iaculis orci eleifend lacus auctor vulputate. Phasellus sed tempus sem. Nunc lacinia metus vel nunc laoreet, at commodo odio vehicula. Morbi lorem est, tempor sed arcu vitae, varius gravida purus. In pellentesque ipsum vel orci molestie porttitor. Donec commodo laoreet massa, non pellentesque lectus sagittis nec.
+"Enthusiastic Full Stack Developer with a diverse background in business start-ups and digital marketing. A Northcoders bootcamp graduate, I've transitioned from managing digital campaigns to crafting seamless web experiences. Skilled in modern technologies such as React, NextJS, Supabase, TypeScript, and PostgreSQL, I'm always eager to learn and innovate. Outside of work, you can find me running through code and miles, embracing my dual passions for software development and distance racing."
 
    <p align="left">
       <a href="https://github.com/kieron-day?tab=followers">
@@ -35,7 +35,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kieron-day&theme=gruvbox&border_radius=4.5) -->
 
 #
-
-<details>
- <summary><h3>👨‍💻 Kieron's Coding Journey</h3></summary>
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ullamcorper pellentesque arcu, id fermentum dui euismod in. Nam pulvinar est dui, non accumsan nibh ultrices quis. Sed vitae enim feugiat, eleifend metus vitae, convallis felis. Vestibulum imperdiet ultrices eros in sagittis. Nam sit amet magna lobortis, elementum ante quis, tincidunt felis. Fusce iaculis orci eleifend lacus auctor vulputate. Phasellus sed tempus sem. Nunc lacinia metus vel nunc laoreet, at commodo odio vehicula. Morbi lorem est, tempor sed arcu vitae, varius gravida purus. In pellentesque ipsum vel orci molestie porttitor. Donec commodo laoreet massa, non pellentesque lectus sagittis nec.
